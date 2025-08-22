@@ -42,6 +42,13 @@
 
 
 
+
+
+
+
+
+
+
 # JavaScript Basics Learning Plan
 
 ## Day 1 – Variables & Data Types
