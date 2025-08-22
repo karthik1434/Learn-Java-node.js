@@ -51,7 +51,7 @@
 
 # JavaScript Basics Learning Plan
 
-## Day 1 – Variables & Data Types
+## Day 1 – Variables & Data Types ✅
 - `var`, `let`, `const` (differences)
 - Data Types: string, number, boolean, null, undefined
 - Introduction to objects and arrays
