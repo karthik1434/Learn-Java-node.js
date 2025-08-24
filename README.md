@@ -65,7 +65,7 @@
 - `if-else`, `else if`
 - `switch` statements
 
-## Day 4 – Loops
+## Day 4 – Loops ✅
 - `for`, `while`, `do...while`
 - `for...of` (arrays)
 - `for...in` (objects)
