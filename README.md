@@ -56,12 +56,12 @@
 - Data Types: string, number, boolean, null, undefined
 - Introduction to objects and arrays
 
-## Day 2 – Operators
+## Day 2 – Operators ✅
 - Arithmetic operators: `+ - * / % **`
 - Comparison operators: `==`, `===`, `!=`, `>`, `<`
 - Logical operators: `&&`, `||`, `!`
 
-## Day 3 – Control Structures
+## Day 3 – Control Structures ✅
 - `if-else`, `else if`
 - `switch` statements
 
