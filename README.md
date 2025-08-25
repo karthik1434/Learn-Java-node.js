@@ -70,12 +70,12 @@
 - `for...of` (arrays)
 - `for...in` (objects)
 
-## Day 5 – Functions
+## Day 5 – Functions ✅
 - Normal functions (`function greet() {}`)
 - Function parameters and return values
 - Arrow functions
 
-## Day 6 – Scope & Hoisting
+## Day 6 – Scope & Hoisting ✅
 - Global vs local scope
 - Block scope (`let` and `const`)
 - Hoisting behavior of `var`
