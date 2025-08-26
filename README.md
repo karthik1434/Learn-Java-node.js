@@ -80,7 +80,7 @@
 - Block scope (`let` and `const`)
 - Hoisting behavior of `var`
 
-## Day 7 – Objects and Arrays (Deep Dive)
+## Day 7 – Objects and Arrays (Deep Dive) ✅
 - Creating, updating, deleting object properties
 - Array methods: `push`, `pop`, `shift`, `unshift`
 - Array iteration: `map`, `filter`, `reduce` (introduction)
