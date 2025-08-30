@@ -85,7 +85,7 @@
 - Array methods: `push`, `pop`, `shift`, `unshift`
 - Array iteration: `map`, `filter`, `reduce` (introduction)
 
-## Day 8 – Template Literals & Practice
+## Day 8 – Template Literals & Practice ✅
 - Template literals: `` `Hello ${name}` ``
 - Multi-line strings
 
