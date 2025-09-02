@@ -89,7 +89,7 @@
 - Template literals: `` `Hello ${name}` ``
 - Multi-line strings
 
-## Day 9 & 10 – Mini Projects
+## Day 9 & 10 – Mini Projects ✅
 - Calculator (basic arithmetic)
 - Student Grade System (objects)
 - Simple To-Do List (arrays)
