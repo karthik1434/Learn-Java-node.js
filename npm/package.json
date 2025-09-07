@@ -1,0 +1,17 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node chalk-demo.js",
+    "dev": "nodemon chalk-demo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "nodemon": "^3.1.10"
+  }
+}

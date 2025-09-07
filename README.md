@@ -94,4 +94,58 @@
 - Student Grade System (objects)
 - Simple To-Do List (arrays)
 
+⚡ 1-Week Node.js Quick Learning Plan
+Day 1: Basics ✅
+
+What is Node.js & why use it
+
+Install Node + npm
+
+Run simple .js files with node
+
+Day 2: Modules ✅
+
+require vs import
+
+Built-in modules: fs, path, http
+
+Write a simple HTTP server
+
+Day 3: npm & Packages ✅
+
+npm init -y
+
+Install packages (chalk, nodemon)
+
+Practice using them in small scripts
+
+Day 4: Files & Directories
+
+Read, write, append files (sync & async)
+
+Create and delete directories
+
+Day 5: Events & Streams
+
+Use EventEmitter for custom events
+
+Read & write large files with streams
+
+Pipe streams (copy file)
+
+Day 6: Mini Project
+
+Build a simple File Logger:
+
+Create an HTTP server
+
+Save requests into a log file
+
+Print logs with chalk
+
+Day 7: Revision & Expand
+
+Review all concepts
+
+
 
