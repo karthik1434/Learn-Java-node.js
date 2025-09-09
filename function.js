@@ -1,4 +1,4 @@
-function SayHai(hai) {
+function SayHai() {
 
     console.log("Hai");
     return "Hello"
